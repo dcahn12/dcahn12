@@ -29,7 +29,7 @@ I build **embodied AI systems** that perceive, reason, and act like humans — f
 
 | Year | Paper | Venue |
 |:----:|-------|:-----:|
-| 2026 | **SCALE**: Self-uncertainty Conditioned Adaptive Looking and Execution for VLA Models | _arXiv_ |
+| 2026 | **SCALE**: Self-uncertainty Conditioned Adaptive Looking and Execution for VLA Models | **ICML** (Spotlight) |
 | 2026 | **BINDER**: Instantly Adaptive Mobile Manipulation with Open-Vocabulary Commands | **ICRA** |
 | 2026 | **LWE**: Becoming Experienced Judges — Selective Test-Time Learning for Evaluators | **EACL** (Oral) |
 | 2026 | **VECTOR**: What Happens When — Learning Temporal Orders of Events in Videos | **WACV** |
